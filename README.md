@@ -1,5 +1,5 @@
 # Oh you opened my profile ...
-somthings about myself : 
+somethings about myself : 
 
 Arch Linux user  |  Gamer  |  Currently trying to break safe and secure **Rust** code
 
